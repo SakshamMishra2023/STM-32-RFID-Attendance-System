@@ -8,7 +8,7 @@ This project implements an RFID-based attendance system that can recognize two s
 
 ## Hardware Components
 
-- **STM32 Microcontroller** (STM32F1xx series)
+- **STM32 Microcontroller** (STM32F103RBT6 series)
 - **RC522 RFID Module** - 13.56MHz RFID reader
 - **Buzzer** - Connected to GPIO PB1 for audio feedback
 - **UART Interface** - For serial communication (115200 baud rate)
