@@ -51,10 +51,6 @@ This project implements an RFID-based attendance system that can recognize two s
 | TX       | PA2       | Transmit |
 | RX       | PA3       | Receive |
 
-## Circuit Diagram
-
-<!-- Insert complete circuit diagram here -->
-
 ## Project Structure
 
 ```
